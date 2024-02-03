@@ -4,7 +4,7 @@ Welcome to the README file for your awesome project! 🚀
 
 ## Deployed App
 
-Check out the deployed version of the app [here](https://fastor-flax.vercel.app/).
+Check out the deployed version of the app [https://fastor-flax.vercel.app/](https://fastor-flax.vercel.app/).
 
 ## Table of Contents
 
@@ -33,3 +33,4 @@ Make sure you have the following installed:
 
    ```bash
    git clone https://github.com/your-username/your-repository.git
+   ```
